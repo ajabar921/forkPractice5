@@ -1,2 +1,2 @@
 # forkPractice5
-# i wanna change some thin in this commint.
+# i wanna change some thing in this commint.
